@@ -8,5 +8,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-BEASTSM96.vercel.app/api/spotify-playing" alt="BEASTSM96 Spotify Playing" width="350" />](https://open.spotify.com/user/b9fcd0iqdfi1v6zkadqd2xfiv)
 
