@@ -8,4 +8,9 @@
 
 ### Spotify Playing 🎧
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="BEASTSM96's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BEASTSM96&show_icons=true&hide_border=true" />
+
+</details>
