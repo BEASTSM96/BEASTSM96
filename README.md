@@ -13,4 +13,6 @@
 
   <img align="left" alt="BEASTSM96's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BEASTSM96&show_icons=true&hide_border=true" />
 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=dark&username=BEASTSM96)
+
 </details>
