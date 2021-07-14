@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on the [Saturn Game Engine](https://github.com/BEASTSM96/Saturn-Engine)
 - 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with C++
 - 📫 How to reach me: don't just don't
 <details>
   <summary>:zap: GitHub Stats</summary>
